@@ -1,5 +1,7 @@
 🚀 [Danilo Teixeira] | Portfolio & Landing Page
+
 Bem-vindo ao repositório da minha landing page pessoal. Este projeto funciona como o meu cartão de visita digital, onde apresento a minha trajetória, competências técnicas em que tenho trabalhado.
+
 💻 Sobre a Página
 A ideia desta landing page é oferecer uma experiência de currículo interativo, focada em:
 Apresentação Pessoal: Quem sou e o que me motiva.
