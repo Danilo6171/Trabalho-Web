@@ -11,7 +11,9 @@ Contacto: Atalhos diretos para o meu LinkedIn e e-mail.
 
 🛠️ Tecnologias Utilizadas
 Frontend: HTML5, CSS3, JavaScript.
+
 Backend: Java, NodeJs, Postgre
+
 Framework: (Ex: React, Vue ou Next.js — se usaste algum).
 
 🎨 Design
